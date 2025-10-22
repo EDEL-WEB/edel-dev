@@ -58,7 +58,7 @@ const About = () => {
           >
             <div className="space-y-6">
               <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
-                I'm a recent software development graduate with a strong drive to turn ideas into reliable, scalable, and human-centered digital experiences.
+                I am a dedicated full-stack developer with a strong drive to turn ideas into reliable, scalable, and human-centered digital experiences.
               </p>
               <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
                 My journey into tech began with a deep curiosity — I wanted to understand how everyday apps work under the hood, from elegant interfaces to efficient backends. That curiosity quickly grew into a passion for building complete systems, leading me to specialize in full-stack development using technologies like React, Flask, and Git.
