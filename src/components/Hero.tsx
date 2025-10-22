@@ -49,8 +49,7 @@ const Hero = () => {
           variants={itemVariants}
           className="text-lg md:text-xl text-gray-300 max-w-2xl mx-auto mb-8"
         >
-          Recent software development graduate passionate about turning ideas into 
-          reliable, scalable digital experiences with modern technologies.
+          I am a dedicated full-stack developer with a strong drive to turn ideas into reliable, scalable, and human-centered digital experiences.
         </motion.p>
 
         <motion.div
