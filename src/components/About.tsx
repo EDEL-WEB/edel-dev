@@ -40,12 +40,13 @@ const About = () => {
             className="flex justify-center"
           >
             <motion.img
-              src="public/edel.jpg" 
+              src="/edel.jpg"
               alt="Your photo"
               className="w-56 h-56 md:w-72 md:h-72 rounded-full object-cover"
-              animate={{ rotate: [0, 360] }}
-              transition={{ repeat: Infinity, duration: 12, ease: 'linear' }}
+              animate={{ rotate: 360 }}
+              transition={{ repeat: Infinity, duration: 12, ease: 'linear', repeatType: 'loop' }}
               whileHover={{ scale: 1.03, rotate: 0 }}
+              style={{ willChange: 'transform' }}
             />
           </motion.div>
 
